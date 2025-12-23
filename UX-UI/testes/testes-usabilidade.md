@@ -1,72 +1,60 @@
-# Testes de Usabilidade (Plano Rápido)
+# Testes de Usabilidade – Iteração 3
 
 ## Objetivo
-Validar se o usuário consegue completar as tarefas principais do sistema com facilidade,
-sem confusão e com pouca fricção no fluxo.
+Validar o protótipo de baixa fidelidade refinado, identificando
+dificuldades de uso, pontos de confusão e oportunidades de melhoria
+antes da evolução para média fidelidade.
 
 ---
 
-## Público-alvo (quem testa)
-- 3 a 5 pessoas (mínimo)
-- Preferência: pessoas que estudam / fazem cursos / organizam tarefas
-- Pelo menos 1 pessoa que NÃO entende de tecnologia (para pegar dificuldades reais)
+## Perfil do Usuário Testado
+- Usuário com perfil semelhante à Persona 01
+- Familiaridade básica com tecnologia
+- Objetivo: organizar e acompanhar estudos
 
 ---
 
-## Preparação
-- Protótipo: low-fi (para fluxo) e hi-fi (para visual e interação)
-- Ambiente: presencial ou remoto (vídeo chamada)
-- Tempo por pessoa: 10 a 15 minutos
+## Cenários de Teste
+
+### Cenário 1 – Primeiro acesso
+*Tarefa:* Entender o propósito do sistema e iniciar o uso.  
+*Esperado:* Usuário compreende rapidamente o objetivo e encontra a ação principal.
 
 ---
 
-## Tarefas do Teste (roteiro)
-1) Fazer login no sistema  
-   - O usuário entendeu que precisa colocar e-mail/senha?
-2) Encontrar a lista de matérias  
-   - Ele sabe onde clicar para ver as matérias?
-3) Cadastrar uma nova matéria  
-   - Ele entende o formulário e finaliza o cadastro?
-4) Atualizar progresso de uma matéria  
-   - Ele encontra a tela e consegue atualizar percentual/status/observação?
-5) Voltar para o dashboard e entender o resumo  
-   - Ele interpreta bem o “progresso geral”?
+### Cenário 2 – Login
+*Tarefa:* Acessar o sistema utilizando e-mail e senha.  
+*Esperado:* Processo simples, sem dúvidas sobre próximos passos.
 
 ---
 
-## O que observar (métricas simples)
-- Tempo para completar cada tarefa
-- Onde a pessoa trava / fica perdida
-- Quantidade de cliques até concluir
-- Comentários espontâneos ("não achei", "não entendi")
-- Erros cometidos
+### Cenário 3 – Gestão de Matérias
+*Tarefa:* Adicionar uma nova matéria e visualizar a lista.  
+*Esperado:* Usuário entende facilmente como cadastrar e localizar matérias.
 
 ---
 
-## Perguntas finais (2 minutos)
-1) O que ficou mais fácil?
-2) O que foi mais difícil/confuso?
-3) O que você mudaria primeiro?
-4) Você usaria esse sistema? Por quê?
+### Cenário 4 – Acompanhamento de Progresso
+*Tarefa:* Verificar o progresso de uma matéria.  
+*Esperado:* Informação clara e fácil de interpretar.
 
 ---
 
-## Resultado do Teste (resumo)
-- Principais problemas encontrados:
-  - (preencher)
-- Melhorias prioritárias:
-  - (preencher)
-- Próximos passos:
-  - (preencher)
+## Hipóteses Avaliadas
+- O onboarding reduz dúvidas iniciais
+- O dashboard facilita a compreensão do progresso
+- A navegação é intuitiva e previsível
 
-  Objetivo dos testes
+---
 
-Cenários (3–5 tarefas)
+## Principais Resultados
+- Usuário entende o fluxo principal sem instruções externas
+- Dashboard é o ponto central da experiência
+- Algumas ações podem ganhar mais destaque visual
 
-Hipóteses
+---
 
-Métricas simples (tempo, erros, clareza)
-
-Principais achados
-
-Próximas ações
+## Próximas Ações
+- Ajustar hierarquia visual no dashboard
+- Simplificar textos informativos
+- Evoluir para protótipo de média fidelidade
