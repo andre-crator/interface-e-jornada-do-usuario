@@ -1,63 +1,68 @@
-# Protótipo de Baixa Fidelidade (Low-Fidelity)
+# Protótipo de Baixa Fidelidade – Iteração 2
 
 ## Objetivo
-Criar um protótipo navegável de baixa fidelidade para validar o fluxo de navegação
-e a experiência do usuário antes da definição visual final.
+Representar o fluxo principal do sistema de forma simples,
+priorizando usabilidade, clareza e hierarquia de informações.
 
 ---
 
-## Tipo de Protótipo
-- Baixa fidelidade (Low Fidelity)
-- Foco em usabilidade e fluxo
+## Características do Protótipo
+- Baixa fidelidade (low-fi)
+- Foco em fluxo e experiência
 - Sem identidade visual final
-- Estrutura simples e funcional
+- Estrutura textual e conceitual
 
 ---
 
-## Telas Prototipadas
+## Telas Protótipo Refinadas
 
-### 1. Login
+### 1. Tela de Boas-Vindas (Onboarding)
+- Mensagem curta explicando o objetivo do sistema
+- Destaque para a ação principal
+- Botão: *“Começar”*
+
+Objetivo: reduzir curva de aprendizado inicial.
+
+---
+
+### 2. Login
 - Campos: e-mail, senha
-- Ação principal: Entrar
-- Ação secundária: Esqueci minha senha
+- Ação principal: entrar
+- Link secundário: recuperar senha
 
 ---
 
-### 2. Dashboard
+### 3. Dashboard
 - Visão geral do progresso do usuário
-- Acesso rápido às matérias
-- Indicador de desempenho
-- Botão: Cadastrar matéria
+- Destaque visual para matérias ativas
+- Acesso rápido às principais ações
+
+Elementos prioritários:
+- Progresso (%)
+- Próxima atividade
+- Botão “Adicionar matéria”
 
 ---
 
-### 3. Lista de Matérias
-- Nome da matéria
-- Status (em andamento / concluída)
-- Acesso à tela de progresso
+### 4. Gestão de Matérias
+- Lista de matérias cadastradas
+- Ação: adicionar, editar, remover
+- Visual simples em lista
 
 ---
 
-### 4. Cadastro de Matéria
-- Nome da matéria
-- Descrição
-- Botão: Salvar
-
----
-
-### 5. Progresso da Matéria
-- Percentual concluído
-- Status
-- Observações
-- Botão: Atualizar progresso
-
----
-
-## Fluxo Principal
-Login → Dashboard → Lista de Matérias → Progresso → Atualização
+## Fluxo Principal do Usuário
+1. Acessa o sistema
+2. Visualiza onboarding
+3. Realiza login
+4. Acessa dashboard
+5. Gerencia matérias
+6. Acompanha progresso
 
 ---
 
 ## Observações
-Este protótipo serve apenas para validação de fluxo e entendimento do sistema,
-sem foco em layout, cores ou tipografia.
+Este protótipo servirá como base para:
+- Testes de usabilidade
+- Evolução para média fidelidade
+- Definição de layout futuro
