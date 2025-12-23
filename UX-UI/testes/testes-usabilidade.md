@@ -58,3 +58,15 @@ sem confusão e com pouca fricção no fluxo.
   - (preencher)
 - Próximos passos:
   - (preencher)
+
+  Objetivo dos testes
+
+Cenários (3–5 tarefas)
+
+Hipóteses
+
+Métricas simples (tempo, erros, clareza)
+
+Principais achados
+
+Próximas ações
